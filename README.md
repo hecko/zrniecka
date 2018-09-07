@@ -16,3 +16,6 @@ Mame 8x8 = 64 policok. Postupnost je jednoducha dvojkova sustava s faktorialom -
 | ...     |                           |                        |
 | H8 (64) | 2^63                      | 2^0 + 2^1 + … + 2^63   |
 
+## Vypocet
+
+Vypocet poctu zrniecok je v Python scripte zrniecka.py - staci spustit program (python3)
