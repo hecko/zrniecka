@@ -19,3 +19,7 @@ Mame 8x8 = 64 policok. Postupnost je jednoducha dvojkova sustava s faktorialom -
 ## Vypocet
 
 Vypocet poctu zrniecok je v Python scripte zrniecka.py - staci spustit program (python3)
+
+## NB
+
+Tento pribeh sa vola aj https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem ako som zistil v 2022. Original zaznam o pribehu ktory mi rozpraval dodo nechavam bez zmeny.
